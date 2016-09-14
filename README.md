@@ -2,7 +2,7 @@
 
 The high resolution data from:  https://www.soest.hawaii.edu/pwessel/gshhg/  imported into R.
 
-The R 'rda' file contains 6 matrices:
+The R 'RData' file contains 6 matrices:
 
 world.f.borders, 
 world.f.island, 
