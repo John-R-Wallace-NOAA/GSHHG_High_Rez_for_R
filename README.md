@@ -1,6 +1,16 @@
-# Imap
-Interactive mapping in R
+# Global Self-consistent, Hierarchical, High-resolution Geography Database, High Rez for R
 
-Install with:
+The high resolution data from:  https://www.soest.hawaii.edu/pwessel/gshhg/  imported into R.
 
-    devtools::install_github("John-R-Wallace/Imap")
+The R 'rda' file contains 6 matrixes:
+
+world.f.borders
+world.f.island
+world.f.lake
+world.f.land
+world.f.pond.in.island
+world.f.rivers
+
+A low resolution of version of these files is included with the Imap package.
+
+There is a function within Imap to download this high resolution version from GitHub.
