@@ -2,7 +2,7 @@
 
 The high resolution data from:  https://www.soest.hawaii.edu/pwessel/gshhg/  imported into R.
 
-The R 'world.f.borders.lakes.rivers.RData' file contains 6 matrices:
+The R 'world.f.borders.lakes.rivers.RData' file contains 5 R matrix objects
 
 world.f.borders, 
 world.f.island, 
