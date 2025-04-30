@@ -1,4 +1,4 @@
-# Global Self-consistent, Hierarchical, High-resolution Geography Database in High Rez for R
+# Global Self-consistent, Hierarchical, High-resolution Geography Database for R
 
 The high resolution data from:  https://www.soest.hawaii.edu/pwessel/gshhg/  imported into R.
 
